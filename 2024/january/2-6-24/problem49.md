@@ -1,4 +1,4 @@
-**[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)**
+# [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 
 - Medium Difficulty
 
@@ -8,18 +8,15 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 original letters exactly once.
 
 <br><br>
-**Example 1:**
-
+**Example 1:** \
 **Input:** `strs = ["eat","tea","tan","ate","nat","bat"]` \
 **Output:** `[["bat"],["nat","tan"],["ate","eat","tea"]]`
 
-**Example 2:**
-
+**Example 2:** \
 **Input:** `strs = [""]` \
 **Output:** `[[""]]`
 
-**Example 3:**
-
+**Example 3:** \
 **Input:** `strs = ["a"]` \
 **Output:** `[["a"]]`
 

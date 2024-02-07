@@ -3,10 +3,10 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
-public class Solution {
+public class Solution49 {
 
 	public static void main(String[] args) {
-		var solution = new Solution();
+		var solution = new Solution49();
 		var result = solution.groupAnagrams(new String[]{"eat", "tea", "tan", "ate", "nat", "bat"});
 		for (var list : result) {
 			System.out.println(list);
