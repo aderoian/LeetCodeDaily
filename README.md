@@ -13,3 +13,6 @@ completed in ``year/month/date`` folder structure.
         - [2-6-24 | Problem 49: Group Anagrams](/2024/january/2-6-24)
         - [2-7-24 | Problem 451: Sort Characters By Frequency](/2024/january/2-7-24)
         - [2-8-24 | Problem 279: Perfect Squares](/2024/january/2-8-24)
+      - 2-14-24
+          - [Problem 389: Find the Difference](/2024/january/2-14-24)
+          - [Problem 392: Is Subsequence](/2024/january/2-14-24)
