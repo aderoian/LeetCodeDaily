@@ -19,3 +19,4 @@ completed in ``year/month/date`` folder structure.
       - 2-15-24
           - [Problem 1480: Running Sum of 1d Array](/2024/january/2-15-24)
           - [Problem 1481: Least Number of Unique Integers after K Removals](/2024/january/2-15-24)
+      - [2-16-24 | Problem 1642: Furthest Building You Can Reach](/2024/january/2-16-24)
