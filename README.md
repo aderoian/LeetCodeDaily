@@ -16,3 +16,6 @@ completed in ``year/month/date`` folder structure.
       - 2-14-24
           - [Problem 389: Find the Difference](/2024/january/2-14-24)
           - [Problem 392: Is Subsequence](/2024/january/2-14-24)
+      - 2-15-24
+          - [Problem 1480: Running Sum of 1d Array](/2024/january/2-15-24)
+          - [Problem 1481: Least Number of Unique Integers after K Removals](/2024/january/2-15-24)
