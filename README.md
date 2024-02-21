@@ -25,3 +25,6 @@ completed in ``year/month/date`` folder structure.
           - [Problem 21: Merge Two Sorted Lists](/2024/january/2-17-24)
       - [2-18-24 | Problem 830: Positions of Large Groups](/2024/january/2-18-24)
       - [2-20-24 | Problem 268: Missing Number](/2024/january/2-20-24)
+      - 2-21-24
+          - [Problem 136: Single Number](/2024/january/2-21-24)
+          - [Problem 137: Single Number II](/2024/january/2-21-24)
