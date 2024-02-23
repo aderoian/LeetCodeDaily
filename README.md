@@ -28,3 +28,4 @@ completed in ``year/month/date`` folder structure.
       - 2-21-24
           - [Problem 136: Single Number](/2024/january/2-21-24)
           - [Problem 137: Single Number II](/2024/january/2-21-24)
+      - [2-22-24 | Problem 997: Find the Town Judge](/2024/january/2-22-24)
