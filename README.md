@@ -29,3 +29,7 @@ completed in ``year/month/date`` folder structure.
           - [Problem 136: Single Number](/2024/january/2-21-24)
           - [Problem 137: Single Number II](/2024/january/2-21-24)
       - [2-22-24 | Problem 997: Find the Town Judge](/2024/january/2-22-24)
+      - [2-23-24 | Problem 783: Minimum Distance Between BST Nodes](/2024/january/2-23-24)
+      - 2-24-24
+          - [Problem 2089: Find Target Indices After Sorting Array](/2024/january/2-24-24)
+          - [Problem 2094: Finding 3-Digit Even Numbers](/2024/january/2-24-24)
