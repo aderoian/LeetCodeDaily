@@ -33,5 +33,5 @@ completed in ``year/month/date`` folder structure.
       - 2-24-24
           - [Problem 2089: Find Target Indices After Sorting Array](/2024/january/2-24-24)
           - [Problem 2094: Finding 3-Digit Even Numbers](/2024/january/2-24-24)
-      - 2-25-24
-          - [Problem 100: Same Tree](/2024/january/2-25-24)
+      - [2-25-24 | Problem 100: Same Tree](/2024/january/2-25-24)
+      - [2-26-24 | Problem 415: Add Strings](/2024/january/2-26-24)
