@@ -35,3 +35,6 @@ completed in ``year/month/date`` folder structure.
           - [Problem 2094: Finding 3-Digit Even Numbers](/2024/january/2-24-24)
       - [2-25-24 | Problem 100: Same Tree](/2024/january/2-25-24)
       - [2-26-24 | Problem 415: Add Strings](/2024/january/2-26-24)
+      - 2-28-24
+          - [Problem 724: Find Pivot Index](/2024/january/2-28-24)
+          - [Problem 804: Unique Morse Code Words](/2024/january/2-28-24) 
