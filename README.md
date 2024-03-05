@@ -42,3 +42,4 @@ completed in ``year/month/date`` folder structure.
         - 3-1-24
             - [Problem 2788: Split Strings by Separator](/2024/march/3-1-24)
             - [Problem 2864: Maximum Odd Binary Number](/2024/march/3-1-24)
+      - [3-5-24 | Problem 1750: Minimum Length of String After Deleting Similar Ends](/2024/march/3-5-24)
