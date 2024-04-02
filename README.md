@@ -45,3 +45,5 @@ completed in ``year/month/date`` folder structure.
       - [3-5-24 | Problem 1750: Minimum Length of String After Deleting Similar Ends](/2024/march/3-5-24)
       - [3-7-24 | Problem 3005: Count Elements With Maximum Frequency](/2024/march/3-7-24)
       - [3-18-24 | Problem 387: First Unique Character in a String](/2024/march/3-18-24)
+  - April
+      - [4-2-24 | Problem 205: Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
