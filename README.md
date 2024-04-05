@@ -47,3 +47,4 @@ completed in ``year/month/date`` folder structure.
       - [3-18-24 | Problem 387: First Unique Character in a String](/2024/march/3-18-24)
   - April
       - [4-2-24 | Problem 205: Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
+    - [4-4-24 | Problem 1544: Make The String Great](https://leetcode.com/problems/make-the-string-great/submissions/1224056854/)
