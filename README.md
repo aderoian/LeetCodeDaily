@@ -48,3 +48,5 @@ completed in ``year/month/date`` folder structure.
   - April
       - [4-2-24 | Problem 205: Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
     - [4-4-24 | Problem 1544: Make The String Great](https://leetcode.com/problems/make-the-string-great/submissions/1224056854/)
+    - [4-9-24 | Problem 2073: Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/)
+    - [4-12-24 | Problem 103: Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/1230415331/)
