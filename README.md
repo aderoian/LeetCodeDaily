@@ -51,3 +51,4 @@ completed in ``year/month/date`` folder structure.
     - [4-9-24 | Problem 2073: Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/)
     - [4-12-24 | Problem 103: Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/1230415331/)
     - [4-16-24 | Problem 623: Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/)
+    - [4-19-24 | Problem 200: Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
