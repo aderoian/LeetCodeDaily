@@ -52,4 +52,6 @@ completed in ``year/month/date`` folder structure.
     - [4-12-24 | Problem 103: Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/1230415331/)
     - [4-16-24 | Problem 623: Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/)
     - [4-19-24 | Problem 200: Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
-    - [4-23-24 | Problem 292: Nim Game](https://leetcode.com/problems/nim-game/)
+    - 4-23-24
+        - [Problem 292: Nim Game](https://leetcode.com/problems/nim-game/)
+        - [Problem 112: Path Sum](https://leetcode.com/problems/path-sum/description/)
