@@ -55,3 +55,4 @@ completed in ``year/month/date`` folder structure.
     - 4-23-24
         - [Problem 292: Nim Game](https://leetcode.com/problems/nim-game/)
         - [Problem 112: Path Sum](https://leetcode.com/problems/path-sum/description/)
+    - [4-30-24 | Problem 2000: Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)
