@@ -56,3 +56,5 @@ completed in ``year/month/date`` folder structure.
         - [Problem 292: Nim Game](https://leetcode.com/problems/nim-game/)
         - [Problem 112: Path Sum](https://leetcode.com/problems/path-sum/description/)
     - [4-30-24 | Problem 2000: Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)
+  - May
+      - [5-5-24 | Problem 2600: K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/description/)
