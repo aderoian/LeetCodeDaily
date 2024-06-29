@@ -58,3 +58,5 @@ completed in ``year/month/date`` folder structure.
     - [4-30-24 | Problem 2000: Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)
   - May
       - [5-5-24 | Problem 2600: K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/description/)
+  - June
+      - [6-28-24 | Problem 2259: Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/description/)
