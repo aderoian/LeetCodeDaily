@@ -60,3 +60,4 @@ completed in ``year/month/date`` folder structure.
       - [5-5-24 | Problem 2600: K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/description/)
   - June
       - [6-28-24 | Problem 2259: Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/description/)
+    - [6-29-24 | Problem 1688: Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/description/)
