@@ -61,3 +61,4 @@ completed in ``year/month/date`` folder structure.
   - June
       - [6-28-24 | Problem 2259: Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/description/)
     - [6-29-24 | Problem 1688: Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/description/)
+    - [6-30-24 | Problem 1550: Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/)
