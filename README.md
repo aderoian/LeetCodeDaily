@@ -64,3 +64,4 @@ completed in ``year/month/date`` folder structure.
     - [6-30-24 | Problem 1550: Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/)
   - July
       - [7-1-24 | 350: Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
+    - [7-3-24 | 1509: Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/)
