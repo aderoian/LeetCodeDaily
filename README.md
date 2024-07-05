@@ -65,4 +65,6 @@ completed in ``year/month/date`` folder structure.
   - July
       - [7-1-24 | 350: Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
     - [7-3-24 | 1509: Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/)
-    - [7-4-24 | 2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)
+    - 7-4-24
+        - [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)
+        - [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/?envType=daily-question&envId=2024-07-05)
