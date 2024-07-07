@@ -69,3 +69,4 @@ completed in ``year/month/date`` folder structure.
         - [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)
         - [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/?envType=daily-question&envId=2024-07-05)
     - [7-5-24 | 2582: Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/)
+    - [7-6-24 | 1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/)
