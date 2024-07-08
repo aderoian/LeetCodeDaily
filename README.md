@@ -70,3 +70,4 @@ completed in ``year/month/date`` folder structure.
         - [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/?envType=daily-question&envId=2024-07-05)
     - [7-5-24 | 2582: Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/)
     - [7-6-24 | 1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/)
+    - [7-7-24 | 1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/)
