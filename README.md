@@ -71,3 +71,4 @@ completed in ``year/month/date`` folder structure.
     - [7-5-24 | 2582: Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/)
     - [7-6-24 | 1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/)
     - [7-7-24 | 1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/)
+    - [7-8-24 | 1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/)
