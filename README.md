@@ -75,3 +75,4 @@ completed in ``year/month/date`` folder structure.
     - [7-9-24 | 1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/)
     - [7-10-24 | 1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/)
     - [7-11-24 | 1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/)
+    - [7-12-24 | 2839. Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/)
