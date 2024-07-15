@@ -77,3 +77,4 @@ completed in ``year/month/date`` folder structure.
     - [7-11-24 | 1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/)
     - [7-12-24 | 2839. Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/)
     - [7-13-24 | 747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)
+    - [7-14-24 | 859. Buddy Strings](https://leetcode.com/problems/buddy-strings/description/)
