@@ -79,3 +79,4 @@ completed in ``year/month/date`` folder structure.
     - [7-13-24 | 747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)
     - [7-14-24 | 859. Buddy Strings](https://leetcode.com/problems/buddy-strings/description/)
     - [7-18-24 | 1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/)
+    - [7-19-24 | 1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/)
