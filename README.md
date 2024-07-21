@@ -1,8 +1,7 @@
 # LeetCodeDaily
 
 This repository is a collection of my daily LeetCode problem-solving journey. I will be solving at least one problem
-everyday and will be updating the repository with my solution. Solutions can be found corresponding to the date it was
-completed in ``year/month/date`` folder structure.
+every day and will be updating the repository with my solutions.
 
 [![](https://badges.peiyuan.ch/leetcode/aderoian/ranking?logo=leetcode&label=aderoian&style=for-the-badge&color=green)](https://leetcode.com/aderoian)
 
