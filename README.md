@@ -80,3 +80,4 @@ completed in ``year/month/date`` folder structure.
     - [7-14-24 | 859. Buddy Strings](https://leetcode.com/problems/buddy-strings/description/)
     - [7-18-24 | 1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/)
     - [7-19-24 | 1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/)
+    - [7-20-24 | 2341. Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/description/)
