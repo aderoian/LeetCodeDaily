@@ -385,6 +385,35 @@ public class JulySolutions {
 	}
 
 	/**
+	 * Problem 2418
+	 * Date: 07/21/2024
+	 */
+	public String[] sortPeople(String[] names, int[] heights) {
+		boolean swapped;
+		int tempHeight;
+		String tempName;
+		for (int i = 0; i < heights.length - 1; i++) {
+			swapped = false;
+			for (int j = 0; j < heights.length - i - 1; j++) {
+				if (heights[j] < heights[j + 1]) {
+					tempHeight = heights[j];
+					tempName = names[j];
+					heights[j] = heights[j + 1];
+					names[j] = names[j + 1];
+					heights[j + 1] = tempHeight;
+					names[j + 1] = tempName;
+
+					swapped = true;
+				}
+			}
+
+			if (!swapped) break;
+		}
+
+		return names;
+	}
+
+	/**
 	 * Utility Classes
 	 */
 	public static class ListNode {
