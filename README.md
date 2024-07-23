@@ -81,3 +81,6 @@ every day and will be updating the repository with my solutions.
     - [7-19-24 | 1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/)
     - [7-20-24 | 2341. Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/description/)
     - [7-21-24 | 2418. Sort the People](https://leetcode.com/problems/sort-the-people/description/)
+    - 7-22-24
+        - [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/description/)
+        - [1447. Simplified Fractions](https://leetcode.com/problems/simplified-fractions/description/)

@@ -414,6 +414,39 @@ public class JulySolutions {
 	}
 
 	/**
+	 * Problem 1450
+	 * Date: 07/22/2024
+	 */
+	public int busyStudent(int[] startTime, int[] endTime, int queryTime) {
+		int students = 0;
+		for (int i = 0; i < startTime.length; i++) {
+			if (startTime[i] <= queryTime && endTime[i] >= queryTime) students++;
+		}
+		return students;
+	}
+
+	/**
+	 * Problem 1447
+	 * Date: 07/22/2024
+	 */
+	public List<String> simplifiedFractions(int n) {
+		List<String> fractions = new ArrayList<>();
+
+		List<Float> createdFractions = new ArrayList<>();
+		for (int i = 1; i <= n; i++) {
+			for (int j = 1; j < i; j++) {
+				float fraction = (float) j / i;
+				if (createdFractions.contains(fraction)) continue;
+
+				createdFractions.add(fraction);
+				fractions.add(j + "/" + i);
+			}
+		}
+
+		return fractions;
+	}
+
+	/**
 	 * Utility Classes
 	 */
 	public static class ListNode {
