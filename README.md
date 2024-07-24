@@ -84,3 +84,4 @@ every day and will be updating the repository with my solutions.
     - 7-22-24
         - [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/description/)
         - [1447. Simplified Fractions](https://leetcode.com/problems/simplified-fractions/description/)
+    - [7-23-24 | 2319. Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/description/)
