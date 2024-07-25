@@ -85,3 +85,4 @@ every day and will be updating the repository with my solutions.
         - [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/description/)
         - [1447. Simplified Fractions](https://leetcode.com/problems/simplified-fractions/description/)
     - [7-23-24 | 2319. Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/description/)
+    - [7-24-24 | 605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)
