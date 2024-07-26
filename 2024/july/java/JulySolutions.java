@@ -499,6 +499,20 @@ public class JulySolutions {
 	}
 
 	/**
+	 * Problem 1290
+	 * Date: 07/25/2024
+	 */
+	public int getDecimalValue(ListNode head) {
+		StringBuilder binaryString = new StringBuilder(head.val + "");
+		while (head.next != null) {
+			binaryString.append(head.next.val);
+			head.next = head.next.next;
+		}
+
+		return Integer.parseInt(binaryString.toString(), 2);
+	}
+
+	/**
 	 * Utility Classes
 	 */
 	public static class ListNode {
