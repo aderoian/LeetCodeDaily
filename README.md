@@ -87,3 +87,4 @@ every day and will be updating the repository with my solutions.
     - [7-23-24 | 2319. Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/description/)
     - [7-24-24 | 605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)
     - [7-25-24 | 1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
+    - [7-26-24 | 3146. Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/description/)

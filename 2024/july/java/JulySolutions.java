@@ -513,6 +513,18 @@ public class JulySolutions {
 	}
 
 	/**
+	 * Problem 3146
+	 * Date: 07/26/2024
+	 */
+	public int findPermutationDifference(String s, String t) {
+		char[] sChars = s.toCharArray();
+		int sum = 0;
+		for (int i = 0; i < sChars.length; i++)
+			sum += Math.abs(t.indexOf(sChars[i]) - i);
+		return sum;
+	}
+
+	/**
 	 * Utility Classes
 	 */
 	public static class ListNode {
