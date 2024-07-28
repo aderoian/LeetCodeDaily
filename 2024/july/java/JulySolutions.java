@@ -525,6 +525,24 @@ public class JulySolutions {
 	}
 
 	/**
+	 * Problem 1909
+	 * Date: 07/27/24
+	 */
+	public boolean canBeIncreasing(int[] nums) {
+		boolean removed = false;
+		for (int i = 1; i < nums.length; i++) {
+			if (nums[i] <= nums[i - 1]) {
+				if (removed) return false;
+				removed = true;
+				if (i > 1 && nums[i] <= nums[i - 2]) {
+					nums[i] = nums[i - 1];
+				}
+			}
+		}
+		return true;
+	}
+
+	/**
 	 * Utility Classes
 	 */
 	public static class ListNode {
