@@ -543,6 +543,25 @@ public class JulySolutions {
 	}
 
 	/**
+	 * Problem 1395
+	 * Date: 07/28/24
+	 */
+	public int numTeams(int[] rating) {
+		int teams = 0;
+		boolean greaterThan = false;
+		for (int i = 0; i < rating.length - 2; i++) {
+			for (int j = i + 1; j < rating.length - 1; j++) {
+				greaterThan = rating[j] > rating[i];
+				for (int k = j + 1; k < rating.length; k++) {
+					if ((greaterThan && rating[k] > rating[j]) || (!greaterThan && rating[k] < rating[j])) teams++;
+				}
+			}
+		}
+
+		return teams;
+	}
+
+	/**
 	 * Utility Classes
 	 */
 	public static class ListNode {
