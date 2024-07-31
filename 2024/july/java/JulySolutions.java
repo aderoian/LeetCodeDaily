@@ -562,6 +562,31 @@ public class JulySolutions {
 	}
 
 	/**
+	 * Problem 1025
+	 * Date: 07/30/2024
+	 */
+	public static boolean divisorGame(int n) {
+		int turn = 1;
+		boolean found = false;
+		while (n > 0) {
+			for (int x = 1; x < n; x++) {
+				if (n % x == 0) {
+					n -= x;
+					found = true;
+					break;
+				}
+			}
+
+			if (!found) return !(turn % 2 == 1);
+
+			found = false;
+			turn++;
+		}
+
+		return !(turn % 2 == 1);
+	}
+
+	/**
 	 * Utility Classes
 	 */
 	public static class ListNode {
