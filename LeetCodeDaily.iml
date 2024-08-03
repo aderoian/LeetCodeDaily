@@ -59,6 +59,7 @@
       <sourceFolder url="file://$MODULE_DIR$/2024/june/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2024/march/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2024/may/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024/august/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
