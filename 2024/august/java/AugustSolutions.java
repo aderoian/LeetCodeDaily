@@ -1,3 +1,7 @@
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
 public class AugustSolutions {
 
 	/**
@@ -15,5 +19,29 @@ public class AugustSolutions {
 		}
 
 		return true;
+	}
+
+	/**
+	 * Problem 1508
+	 * Date: 08/03/2024
+	 */
+	public int rangeSum(int[] nums, int n, int left, int right) {
+		List<Integer> sums = new ArrayList<>();
+		int subSum;
+		for (int i = 0; i < nums.length; i++) {
+			subSum = 0;
+			for (int j = 0; j < nums.length - i; j++) {
+				subSum += nums[i + j];
+				sums.add(subSum);
+			}
+		}
+
+		Collections.sort(sums);
+
+		int sum = 0;
+		for (int i = left - 1; i < right; i++) {
+			sum = (sum + sums.get(i)) % 1000000007;
+		}
+		return sum;
 	}
 }
