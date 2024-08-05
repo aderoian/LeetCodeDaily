@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 public class AugustSolutions {
 
@@ -43,5 +41,27 @@ public class AugustSolutions {
 			sum = (sum + sums.get(i)) % 1000000007;
 		}
 		return sum;
+	}
+
+	/**
+	 * Problem 2053
+	 * Date: 08/04/2024
+	 */
+	public String kthDistinct(String[] arr, int k) {
+		Map<String, Integer> freqMap = new HashMap<>();
+
+		for (String s : arr) {
+			freqMap.put(s, freqMap.getOrDefault(s, 0) + 1);
+		}
+
+		if (freqMap.size() < k) return "";
+
+		int distincts = 0;
+		for (String s : arr) {
+			if (freqMap.get(s) == 1) distincts++;
+			if (distincts == k) return s;
+		}
+
+		return "";
 	}
 }
