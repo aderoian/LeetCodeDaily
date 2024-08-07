@@ -104,3 +104,4 @@ every day and will be updating the repository with my solutions.
 | 8/3/24 | Problem 1508 | [Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/description/)                       |
 | 8/4/24 | Problem 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/)                           |
 | 8/5/24 | Problem 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/)         |
+| 8/6/24 | Problem 326  | [Power of Three](https://leetcode.com/problems/power-of-three/description/)                                                             |
