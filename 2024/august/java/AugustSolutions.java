@@ -95,4 +95,25 @@ public class AugustSolutions {
 		while (n % 3 == 0) n /= 3;
 		return n == 1;
 	}
+
+	/**
+	 * Problem 929
+	 * Date: 08/07/2024
+	 */
+	public int numUniqueEmails(String[] emails) {
+		Set<String> uniqueEmails = new HashSet<>();
+		for (String email : emails) {
+			String[] parts = email.split("@");
+			String local = parts[0];
+			String domain = parts[1];
+			StringBuilder sb = new StringBuilder();
+			for (char c : local.toCharArray()) {
+				if (c == '+') break;
+				if (c == '.') continue;
+				sb.append(c);
+			}
+			uniqueEmails.add(sb + "@" + domain);
+		}
+		return uniqueEmails.size();
+	}
 }
